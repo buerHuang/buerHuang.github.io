@@ -32,11 +32,11 @@ I'm a fourth year undergraduate student from [School of ICES](https://ices.cuc.e
 <div class='paper-box-text' markdown="1">
 
 [A novel beam training method for near-field wideband
-extremely large antenna arrays](https://www.sciencedirect.com/science/article/abs/pii/S1874490726000388?via%3Dihub)
+extremely large antenna arrays]
 
 D. Zhou, **Ke Huang**, Jingyi Guan, Yang Wang, Jianhe Du
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Elsevier**](https://www.sciencedirect.com/science/article/abs/pii/S1874490726000388?via%3Dihub) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
