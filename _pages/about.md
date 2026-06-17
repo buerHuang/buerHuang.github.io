@@ -44,6 +44,7 @@ We proposed a three-stage beam training scheme for near-field wideband ELAA syst
 </div>
 
 # 🔨 Projects
+- Code reproduction of the paper "Near-Field Beam Training Based on Deep Learning for Extremely Large-Scale MIMO"
 
 # 🎖 Honors and Awards
 - *2026.06* Excellent graduate of Communication University of China. 
