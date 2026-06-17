@@ -39,7 +39,6 @@ D. Zhou, **Ke Huang**, J. Guan, Y. Wang, J. Du
 - We proposed a three-stage beam training scheme for near-field wideband ELAA systems, leveraging beam split and sub-array partitioning to design wide beam codebook and employing narrow beams for angle and distance estimation. Simulation results demonstrated that the proposed method achieved near-optimal rate performance with lower training overhead than benchmark methods.
 
 </div>
-</div>
 
 
 # 🎖 Honors and Awards
