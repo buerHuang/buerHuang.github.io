@@ -23,7 +23,8 @@ I'm a fourth year undergraduate student from [School of ICES](https://ices.cuc.e
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 Graduated from Communication University of China！
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02*: &nbsp;🎉🎉 My first SCI journal paper has been published in _Physical Communication_.
+- *2025.09*: &nbsp;🎉🎉 Successfully recommended for graduate study at Beijing Institute of Technology (Zhuhai). 
 
 # 📝 Publications 
 
