@@ -48,8 +48,8 @@ D. Zhou, **Ke Huang**, Jingyi Guan, Yang Wang, Jianhe Du
 - *2026.05* Excellent graduation thesis of Communication University of China. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.09 - future*, Beijing Institute of Technology (Zhuhai). 
+- *2022.09 - 2026.06*, Communication University of China. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
