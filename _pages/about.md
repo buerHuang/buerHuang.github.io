@@ -49,11 +49,8 @@ D. Zhou, **Ke Huang**, Jingyi Guan, Yang Wang, Jianhe Du
 
 # 📖 Educations
 - *2026.09 - future*, Beijing Institute of Technology (Zhuhai). 
-- *2022.09 - 2026.06*, Communication University of China. 
+- *2022.09 – 2026.06*, B.Eng. in Electronic Information Engineering, Communication University of China (Elite Talent Program, top 20% selection; Project 211 University). 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Skills and Hobbies
+- Programming: Matlab, Python, PyTorch, C/C++.
+- Hobbies: Photographing, Swimming, billiards.
