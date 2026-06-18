@@ -33,7 +33,7 @@ I'm Huang Ke, a fourth year undergraduate student from [School of ICES](https://
 
 A novel beam training method for near-field wideband extremely large antenna arrays
 
-D. Zhou, **Ke Huang(Student first author)**, J. Guan, Y. Wang, J. Du
+D. Zhou, **Ke Huang (Student first author)**, J. Guan, Y. Wang, J. Du
 
 [**Elsevier**](https://www.sciencedirect.com/science/article/abs/pii/S1874490726000388?via%3Dihub) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <p style="text-align: justify;">
