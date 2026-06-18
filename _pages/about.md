@@ -53,7 +53,7 @@ We proposed a three-stage beam training scheme for near-field wideband ELAA syst
 
 # 📖 Educations
 - *2026.09 - future*, Beijing Institute of Technology (Zhuhai). 
-- *2022.09 – 2026.06*, B.Eng. in Electronic Information Engineering, Communication University of China (Elite Talent Program, top 20% selection; Project 211 University). 
+- *2022.09 – 2026.06*, B.Eng. in Electronic Information Engineering, Communication University of China (_Elite Talent Program, top 20% selection_; Project 211 University). 
 
 # 💬 Skills and Hobbies
 - Programming: Matlab, Python, PyTorch, C/C++.
