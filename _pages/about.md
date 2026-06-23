@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👷 About Me
-I'm **Huang Ke (黄科)**, a fourth year undergraduate student from [School of ICES](https://ices.cuc.edu.cn/), [CUC](https://cuc.edu.cn/). My research interest includes Near-field Communications, Beamforming/Beam Training Design, AI for Wireless Communications, and Image Processing.
+My name is **Huang Ke (黄科)**. I graduated from the School of Information and Communication Engineering, Communication University of China. Currently, I am going to Beijing Institute of Technology (Zhuhai) for my master's degree.
+
+My research interests include near-field communications, CSI acquisition, AI for wireless communications, and image processing.
 
 
 # 🔥 News
