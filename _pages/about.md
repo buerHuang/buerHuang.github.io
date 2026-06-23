@@ -50,8 +50,9 @@ We proposed a three-stage beam training scheme for near-field wideband ELAA syst
 [_Source Code_](https://github.com/buerHuang/Channel-Estimation-and-Beam-Training-for-MISO-Communications)
 
 # 🎖 Honors and Awards
-- *2026.06* Excellent graduate of Communication University of China. 
-- *2026.05* Excellent graduation thesis of Communication University of China. 
+- *2026.06* Excellent graduate of Communication University of China
+- *2026.05* Excellent graduation thesis of Communication University of China
+- *2025.06* “Outstanding League Member” of Communication University of China 
 
 # 📖 Educations
 - *2026.09 - future*, Beijing Institute of Technology (Zhuhai). 
