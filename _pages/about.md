@@ -69,18 +69,18 @@ We proposed a three-stage beam training scheme for near-field wideband ELAA syst
 
 <p align="center">
   <a href="images/beijing.jpg">
-    <img src="images/beijing.jpg" alt="Beijing" width="47%">
+    <img src="images/beijing.jpg" alt="Beijing" width="30%">
   </a>
   <a href="images/Christmas_tree.jpg">
-    <img src="images/Christmas_tree.jpg" alt="Christmas Tree" width="47%">
+    <img src="images/Christmas_tree.jpg" alt="Christmas Tree" width="30%">
   </a>
 </p>
 
 <p align="center">
   <a href="images/Malaysia.jpg">
-    <img src="images/Malaysia.jpg" alt="Malaysia" width="47%">
+    <img src="images/Malaysia.jpg" alt="Malaysia" width="30%">
   </a>
   <a href="images/Tokyo_tower.jpg">
-    <img src="images/Tokyo_tower.jpg" alt="Tokyo Tower" width="47%">
+    <img src="images/Tokyo_tower.jpg" alt="Tokyo Tower" width="30%">
   </a>
 </p>
