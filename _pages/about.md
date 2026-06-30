@@ -68,17 +68,34 @@ We proposed a three-stage beam training scheme for near-field wideband ELAA syst
 - Hobbies: Photographing, Swimming, billiards.
 - Photo wall
 
-<p align="center">
-  <a href="images/beijing.jpg" style="margin: 0 8px;">
-    <img src="images/beijing.jpg" alt="Beijing" width="22%">
-  </a>
-  <a href="images/Christmas_tree.jpg" style="margin: 0 8px;">
-    <img src="images/Christmas_tree.jpg" alt="Christmas Tree" width="22%">
-  </a>
-  <a href="images/Malaysia.jpg" style="margin: 0 8px;">
-    <img src="images/Malaysia.jpg" alt="Malaysia" width="22%">
-  </a>
-  <a href="images/Tokyo_tower.jpg" style="margin: 0 8px;">
-    <img src="images/Tokyo_tower.jpg" alt="Tokyo Tower" width="22%">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="22%" style="padding: 0 8px;">
+      <a href="images/beijing.jpg">
+        <img src="images/beijing.jpg" width="100%">
+      </a><br>
+      <b>Beijing</b>
+    </td>
+
+    <td align="center" width="22%" style="padding: 0 8px;">
+      <a href="images/Christmas_tree.jpg">
+        <img src="images/Christmas_tree.jpg" width="100%">
+      </a><br>
+      <b>Hokkaido</b>
+    </td>
+
+    <td align="center" width="22%" style="padding: 0 8px;">
+      <a href="images/Malaysia.jpg">
+        <img src="images/Malaysia.jpg" width="100%">
+      </a><br>
+      <b>Kuala Lumpur</b>
+    </td>
+
+    <td align="center" width="22%" style="padding: 0 8px;">
+      <a href="images/Tokyo_tower.jpg">
+        <img src="images/Tokyo_tower.jpg" width="100%">
+      </a><br>
+      <b>Tokyo</b>
+    </td>
+  </tr>
+</table>
