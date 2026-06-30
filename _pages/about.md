@@ -66,18 +66,19 @@ We proposed a three-stage beam training scheme for near-field wideband ELAA syst
 # 💬 Skills and Hobbies
 - Programming: Matlab, Python, PyTorch, C/C++.
 - Hobbies: Photographing, Swimming, billiards.
+- Photo wall
 
 <p align="center">
-  <a href="images/beijing.jpg">
-    <img src="images/beijing.jpg" alt="Beijing" width="23%">
+  <a href="images/beijing.jpg" style="margin: 0 8px;">
+    <img src="images/beijing.jpg" alt="Beijing" width="22%">
   </a>
-  <a href="images/Christmas_tree.jpg">
-    <img src="images/Christmas_tree.jpg" alt="Christmas Tree" width="23%">
+  <a href="images/Christmas_tree.jpg" style="margin: 0 8px;">
+    <img src="images/Christmas_tree.jpg" alt="Christmas Tree" width="22%">
   </a>
-  <a href="images/Malaysia.jpg">
-    <img src="images/Malaysia.jpg" alt="Malaysia" width="23%">
+  <a href="images/Malaysia.jpg" style="margin: 0 8px;">
+    <img src="images/Malaysia.jpg" alt="Malaysia" width="22%">
   </a>
-  <a href="images/Tokyo_tower.jpg">
-    <img src="images/Tokyo_tower.jpg" alt="Tokyo Tower" width="23%">
+  <a href="images/Tokyo_tower.jpg" style="margin: 0 8px;">
+    <img src="images/Tokyo_tower.jpg" alt="Tokyo Tower" width="22%">
   </a>
 </p>
