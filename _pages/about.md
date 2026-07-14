@@ -60,7 +60,7 @@ We proposed a three-stage beam training scheme for near-field wideband ELAA syst
 - *2023.12* Third prize in the National College Mathematics Competition
 
 # 📖 Educations
-- *2026.09 - 2029.06*, Beijing Institute of Technology (北京理工大学珠海校区), Zhuhai. 
+- *2026.09 - 2029.06*, Beijing Institute of Technology (北京理工大学 珠海), Zhuhai. 
 - *2022.09 - 2026.06*, Communication University of China (中国传媒大学), Beijing.
 - *2019.06 - 2022.06*, Zhuhai No. 1 High School (珠海市第一中学), Zhuhai.
 
