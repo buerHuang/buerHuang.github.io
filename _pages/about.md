@@ -34,7 +34,7 @@ My research interests include near-field communications, CSI acquisition, AI for
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Wireless Communications Letters</div><img src='images/rainbow_training.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Effective Beam Training for Near-Field Wideband Terahertz Extremely Large-Scale Arrays
+Effective beam training for near-field wideband terahertz extremely large-scale arrays
 
 **Ke Huang (First author)**, J. Du, J. Guan, Y. Wang, N. C. Luong, X. Li
 
