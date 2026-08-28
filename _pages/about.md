@@ -31,7 +31,7 @@ My research interests include near-field communications, CSI acquisition, AI for
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Wireless Communications Letters</div><img src='images/rainbow_training1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Wireless Communications Letters</div><img src='images/rainbow_training.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Effective Beam Training for Near-Field Wideband Terahertz Extremely Large-Scale Arrays
@@ -40,7 +40,7 @@ Effective Beam Training for Near-Field Wideband Terahertz Extremely Large-Scale 
 
 [**IEEE**](https://www.sciencedirect.com/science/article/abs/pii/S1874490726000388?via%3Dihub) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <p style="text-align: justify;">
-We proposed an angle-priority beam training scheme for near-field wideband THz XL-array systems, motivated by the highrt sensitivity of array gain to angle mismatch. By exploiting controllable beam split and a central sub-array, the proposed scheme enables efficient angle and distance estimation with improved robustness for nearby users. Simulation results demonstrated near-optimal rate performance with significantly reduced training overhead.
+We proposed an angle-priority beam training scheme for near-field wideband THz XL-array systems, motivated by the higher sensitivity of array gain to angle mismatch. By exploiting controllable beam split and a central sub-array, the proposed scheme enables efficient angle and distance estimation with improved robustness for nearby users. Simulation results demonstrated near-optimal rate performance with significantly reduced training overhead.
 </p>
 
 </div>
