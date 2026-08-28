@@ -30,12 +30,12 @@ My research interests include near-field communications, CSI acquisition, AI for
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physical Communication</div><img src='images/system_model1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCL</div><img src='images/system_model1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Effective Beam Training for Near-Field Wideband Terahertz Extremely Large-Scale Arrays
 
-D. Zhou, **Ke Huang (Student first author)**, J. Guan, Y. Wang, J. Du
+**Ke Huang (First author)**, J. Du, J. Guan, Y. Wang, N. C. Luong, X. Li
 
 [**Elsevier**](https://www.sciencedirect.com/science/article/abs/pii/S1874490726000388?via%3Dihub) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <p style="text-align: justify;">
