@@ -33,7 +33,7 @@ My research interests include near-field communications, CSI acquisition, AI for
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physical Communication</div><img src='images/system_model1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A novel beam training method for near-field wideband extremely large antenna arrays
+Effective Beam Training for Near-Field Wideband Terahertz Extremely Large-Scale Arrays
 
 D. Zhou, **Ke Huang (Student first author)**, J. Guan, Y. Wang, J. Du
 
