@@ -24,9 +24,9 @@ My research interests include near-field communications, CSI acquisition, AI for
 
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 My first SCI journal paper has been accepted by _IEEE Wireless Communications Letters_.
+- *2026.06*: &nbsp;🎉🎉 My second journal paper has been accepted by _IEEE Wireless Communications Letters_.
 - *2026.06*: &nbsp;🎉🎉 Graduated from Communication University of China!
-- *2026.02*: &nbsp;🎉🎉 My first SCI journal paper has been published in _Physical Communication_.
+- *2026.02*: &nbsp;🎉🎉 My first journal paper has been published in _Physical Communication_.
 - *2025.09*: &nbsp;🎉🎉 Successfully recommended for graduate study at Beijing Institute of Technology (Zhuhai). 
 
 # 📝 Publications 
