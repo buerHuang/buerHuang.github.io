@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👷 About Me
+# 👷 About Me (Update on 08.28)
 My name is **Huang Ke (黄科)**. I graduated from the School of Information and Communication Engineering, [Communication University of China (CUC)](https://www.cuc.edu.cn/). Currently, I am going to Beijing Institute of Technology (Zhuhai) for my master's degree.
 
 My research interests include near-field communications, CSI acquisition, AI for wireless communications, and image processing.
