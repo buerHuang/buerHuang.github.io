@@ -38,7 +38,7 @@ Effective beam training for near-field wideband terahertz extremely large-scale 
 
 **Ke Huang (First author)**, J. Du, J. Guan, Y. Wang, N. C. Luong, X. Li
 
-[**IEEE**](https://www.sciencedirect.com/science/article/abs/pii/S1874490726000388?via%3Dihub) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**IEEE**](https://ieeexplore.ieee.org/document/11673232) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <p style="text-align: justify;">
 We proposed an angle-priority beam training scheme for near-field wideband THz XL-array systems, motivated by the higher sensitivity of array gain to angle mismatch. By exploiting controllable beam split and a central sub-array, the proposed scheme enables efficient angle and distance estimation with improved robustness for nearby users. Simulation results demonstrated near-optimal rate performance with significantly reduced training overhead.
 </p>
