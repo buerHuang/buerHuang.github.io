@@ -34,6 +34,21 @@ My research interests include radar signal processing, terahertz imaging, and AI
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Wireless Communications Letters</div><img src='images/rainbow_training.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+Energy spread-aware beam training for near-field wideband terahertz XL-RIS communications
+
+**Ke Huang (First author)** et. al
+
+[**IEEE**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<p style="text-align: justify;">
+To be continue……
+</p>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Wireless Communications Letters</div><img src='images/rainbow_training.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 Effective beam training for near-field wideband terahertz extremely large-scale arrays
 
 **Ke Huang (First author)**, J. Du, J. Guan, Y. Wang, N. C. Luong, X. Li
