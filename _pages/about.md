@@ -31,7 +31,7 @@ My research interests include radar signal processing, terahertz imaging, and AI
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Wireless Communications Letters</div><img src='images/rainbow_training.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on hmm...?</div><img src='images/rainbow_training.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Energy spread-aware beam training for near-field wideband terahertz XL-RIS communications
@@ -40,7 +40,7 @@ Energy spread-aware beam training for near-field wideband terahertz XL-RIS commu
 
 [**IEEE**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <p style="text-align: justify;">
-To be continue……
+To be continue...
 </p>
 
 </div>
