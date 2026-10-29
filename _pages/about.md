@@ -38,7 +38,7 @@ Energy spread-aware beam training for near-field wideband terahertz XL-RIS commu
 
 **Ke Huang (First author)** et. al
 
-[**IEEE**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**IEEE** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <p style="text-align: justify;">
 To be continue...
 </p>
