@@ -85,6 +85,7 @@ We proposed a three-stage beam training scheme for near-field wideband ELAA syst
 
 
 # 🎖 Honors and Awards
+- *2026.11* "First-class Academic Scholarship" of Beijing Institute of Technology
 - *2026.06* Excellent graduate of Communication University of China
 - *2026.05* Excellent graduation thesis of Communication University of China
 - *2025.06* “Outstanding League Member” of Communication University of China
