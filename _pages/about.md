@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👷 About Me (Update on 08.28)
+# 👷 About Me (Update on 10.29)
 My name is **Huang Ke (黄科)**. I received my B.E. degree in the School of Information and Communication Engineering, [Communication University of China (CUC)](https://www.cuc.edu.cn/) in 2026. I am currently pursuing my M.S. degree at Beijing Institute of Technology, Zhuhai, China. 
 
 My research interests include radar signal processing, terahertz imaging, and AI for wireless communications.
