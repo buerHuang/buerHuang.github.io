@@ -82,6 +82,7 @@ We proposed a three-stage beam training scheme for near-field wideband ELAA syst
 - Channel Estimation and Beam Training for MISO Communication Systems
 [_Source Code_](https://github.com/buerHuang/Channel-Estimation-and-Beam-Training-for-MISO-Communications)
 - Beam scanning simulation platform
+- Two-stage industrial defect detection based on Yolo and ResNet
 
 
 # 🎖 Honors and Awards
