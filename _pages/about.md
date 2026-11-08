@@ -79,6 +79,8 @@ We proposed a three-stage beam training scheme for near-field wideband ELAA syst
 # 🔨 Projects
 - Code reproduction of the paper "Near-Field Beam Training Based on Deep Learning for Extremely Large-Scale MIMO"
 [_Source Code_](https://github.com/buerHuang/Code-reproduction-of-Near-Field-Beam-Training-Based-on-Deep-Learning-for-Extremely-Large-Scale-MIMO-)
+- Code reproduction of Efficient Hierarchical Beam Training for Extremely Large-Scale MIMO
+[_Source Code_](https://github.com/buerHuang/Code-reproduction-of-Efficient-Hierarchical-Beam-Training-for-Extremely-Large-Scale-MIMO-)
 - Channel Estimation and Beam Training for MISO Communication Systems
 [_Source Code_](https://github.com/buerHuang/Channel-Estimation-and-Beam-Training-for-MISO-Communications)
 - Beam scanning simulation platform
